@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>GIT Remote Test II</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Soni Maulana M</h1>
